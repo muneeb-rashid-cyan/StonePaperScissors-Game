@@ -1,4 +1,4 @@
-# StonePaperScissors-Gam# StonePaperScissors Game
+# StonePaperScissors-Game
 
 ## Overview
 
