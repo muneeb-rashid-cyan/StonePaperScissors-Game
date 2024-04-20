@@ -47,7 +47,7 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 
 ## Contact
 
-Muneeb Rashid - muneebcyan@example.com
+Muneeb Rashid - muneebcyan@gmail.com
 
 Project Link: [https://github.com/muneeb-rashid-cyan/Currency-Convertor-Using-HTML-CSS-Javascript.git](https://github.com/muneeb-rashid-cyan/Currency-Convertor-Using-HTML-CSS-Javascript.git)
 
